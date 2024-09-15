@@ -1,4 +1,3 @@
-LABEL authors="ecem.koro1"
 # Uygulama için JDK gerekli
 FROM amazoncorretto:17
 
